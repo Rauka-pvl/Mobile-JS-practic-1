@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Book Library",
+    "slug": "js-mobile-practice-01-book-library",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "web": { "bundler": "metro", "output": "single" }
+  }
+}
